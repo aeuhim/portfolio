@@ -20,17 +20,17 @@ export default function ProjectSection() {
               <div>
                 <div className="flex flex-col sm:flex-row mb-5">
                   <h1 className="font-normal text-gray-700 text-3xl md:text-4xl sm:mr-auto">
-                    Go Farm
+                    GoFarm
                   </h1>
-                  <a href="https://gofarm.today" target="blank_" className="flex flex-row sm:self-center group">
-                    <img src="../link.svg" alt="Link Icon" className="mr-1 contrast-0 group-hover:contrast-50" />
-                    <p className="font-semibold text-gray-400 group-hover:text-gray-500">
+                  <a href="https://gofarm.today" target="blank_" className="flex flex-row items-center group">
+                    <img src="../link.svg" alt="Link Icon" className="w-2 sm:w-3 mr-1 contrast-0 group-hover:contrast-50" />
+                    <p className="font-semibold text-xs sm:text-sm text-gray-400 group-hover:text-gray-500">
                       Check it out
                     </p>
                   </a>
                 </div>
                 <p className="font-normal text-gray-500 text-sm md:text-base max-w-screen-sm xl:w-96">
-                  A web app that stands as a testament to my proficiency in an agile approach and microservices architecture. Through the synergy of ReactJS, NextJS, and FastAPI, I artfully constructed a dynamic platform seamlessly united with AWS Lambda and Vercel, resulting in unparalleled performance. Empowered by the capabilities of TensorFlow, Keras, and OpenCV, the app astutely calculates field dimensions, optimizes resource allocation, imparts insightful agricultural wisdom, and forecasts soil fertility. This project vividly illustrates both my technical acumen and steadfast dedication to engineering transformative, adaptive solutions.
+                  An agriculture-centered web application that stands as a testament to my proficiency in an agile approach and microservices architecture. Through the synergy of ReactJS, NextJS, and FastAPI, I artfully constructed a dynamic platform seamlessly united with AWS Lambda and Vercel, resulting in unparalleled performance. Empowered by the capabilities of TensorFlow, Keras, and OpenCV, the app astutely calculates field dimensions, optimizes resource allocation, imparts insightful agricultural wisdom, and forecasts soil fertility. This project vividly illustrates both my technical acumen and steadfast dedication to engineering transformative, adaptive solutions.
                 </p>
               </div>
             </div>
@@ -42,17 +42,17 @@ export default function ProjectSection() {
               <div>
                 <div className="flex flex-col sm:flex-row mb-5">
                   <h1 className="font-normal text-gray-700 text-3xl md:text-4xl sm:mr-auto">
-                    Overseer
+                    SieveCV
                   </h1>
-                  <a href="https://overseer.gofarm.today" target="blank_" className="flex flex-row sm:self-center group">
-                    <img src="../link.svg" alt="Link Icon" className="mr-1 contrast-0 group-hover:contrast-50" />
-                    <p className="font-semibold text-gray-400 group-hover:text-gray-500">
+                  <a href="https://sievecv.com" target="blank_" className="flex flex-row items-center group">
+                    <img src="../link.svg" alt="Link Icon" className="w-2 sm:w-3 mr-1 contrast-0 group-hover:contrast-50" />
+                    <p className="font-semibold text-xs sm:text-sm text-gray-400 group-hover:text-gray-500">
                       Check it out
                     </p>
                   </a>
                 </div>
                 <p className="font-normal text-gray-500 text-sm md:text-base max-w-screen-sm xl:w-96">
-                  An agriculture-centered web app, utilizing a monolithic architecture, demonstrates my proficiency in Django, TensorFlow, Keras, and OpenCV. Through a comprehensive approach, it provides real-time insights into crop health, soil conditions, pricing projections, and personalized farming advice. Hosted on AWS EC2, this advanced agricultural solution redefines resource utilization and yield optimization. This initiative highlights my commitment to excellence and a data-centric method that transforms conventional practices for improved profitability and efficiency.
+                  An innovative web application revolutionizing document sorting and analysis, crafted to enhance the hiring process for job recruiters and HR professionals. Fueled by advanced AI algorithms, it seamlessly automates the sorting of resumes, cover letters, and curriculum vitae, swiftly identifying errors, analyzing content, and predicting candidates, thereby expediting shortlisting. Highlighting notable features like customizable criteria, candidate ranking, and automated responses, the project employs Angular, Django Rest Framework, AWS EC2, and a large language model, effectively showcasing my AI development skills while providing recruiters with an efficient, competitive edge in candidate selection.
                 </p>
               </div>
             </div>
@@ -66,15 +66,15 @@ export default function ProjectSection() {
                   <h1 className="font-normal text-gray-700 text-3xl md:text-4xl sm:mr-auto">
                     Exam N Crypt
                   </h1>
-                  <a href="https://play.google.com/store/apps/details?id=dev.aeuhim.examncrypt" target="blank_" className="flex flex-row sm:self-center group">
-                    <img src="../link.svg" alt="Link Icon" className="mr-1 contrast-0 group-hover:contrast-50" />
-                    <p className="font-semibold text-gray-400 group-hover:text-gray-500">
+                  <a href="https://play.google.com/store/apps/details?id=dev.aeuhim.examncrypt" target="blank_" className="flex flex-row items-center group">
+                    <img src="../link.svg" alt="Link Icon" className="w-2 sm:w-3 mr-1 contrast-0 group-hover:contrast-50" />
+                    <p className="font-semibold text-xs sm:text-sm text-gray-400 group-hover:text-gray-500">
                       Check it out
                     </p>
                   </a>
                 </div>
                 <p className="font-normal text-gray-500 text-sm md:text-base max-w-screen-sm xl:w-96">
-                  A revolutionary mobile app for teachers and students, built using Flutter, Material Design, and Firebase. This cross-platform solution redefines exam administration by enabling teachers to create, encrypt, and share exams efficiently. Notably, the encryption is designed for deferred decryption, allowing secure file transmission to students who can access the content later. With real-time delivery, robust anti-cheating measures, and the integration of a large language model for quiz creation, it exemplifies the future of digital assessments while highlighting my skills in cross-platform development.
+                  A mobile application for educators and students, crafted with Flutter, Material Design, and Firebase. This cross-platform application reshapes the landscape of exam management, empowering teachers to efficiently compose, encrypt, and distribute exams. It seamlessly incorporates automated score calculation, grade tracking, and insightful analytics capabilities. Notably, the encryption protocol is designed for deferred decryption, ensuring secure content delivery for subsequent access by students. Enhanced by robust anti-cheating safeguards and integration of a large language model for quiz formulation, the application exemplifies the future of digital assessment, effectively underscoring my skills in cross-platform development.
                 </p>
               </div>
             </div>
